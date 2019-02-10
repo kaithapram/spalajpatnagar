@@ -1,0 +1,32 @@
+title: Body Massage in Delhi
+email: akashverma23789@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Full body massage parlour in delhi. We offer Special packages, discounts, offers and best spa deal in bangalore at available for our reliable customers.
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "http://keralahost.in/spalajpatnagar" # the base hostname & protocol for your site
+google_adsense: Your-adsense-code
+
+markdown: kramdown
+
+name: Body Massage in Delhi
+
+date: 2019-02-10 16:39:29 +0000
+permalink: /:year/:month/:day/:title
+
+logo: false
+sass:
+    load_paths:
+        - _sass
+        - bs
+paginate: 10
+adsid: ca-pub-8582082279264878
+domain_name: http://keralahost.in/spalajpatnagar/
+google_analytics: UA-31XXXXXX-X
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+cover: 
+author_image: 
+# Details for the RSS feed generator
+author:        spalajpatnagar
